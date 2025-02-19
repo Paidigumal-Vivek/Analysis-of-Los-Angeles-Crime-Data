@@ -29,13 +29,13 @@ This project explores crime patterns in Los Angeles by integrating crime data wi
 
 ## **Dashboards**  
 ### **Univariate Analysis Based on Number of Crimes**  
-![Dashboard 1](https://github.com/praneethravirala/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard1.jpeg)  
+![Dashboard 1](https://github.com/Paidigumal-Vivek/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard1.jpeg)
 
 ### **Multivariate Analysis Based on Categorised Neighbourhoods and Businesses**  
-![Dashboard 2](https://github.com/praneethravirala/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard2.jpeg)  
+![Dashboard 2](https://github.com/Paidigumal-Vivek/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard2.jpeg)  
 
 ### **Bivariate Analysis Based on Number of Crimes and Average Enrollment**  
-![Dashboard 3](https://github.com/praneethravirala/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard3.jpeg)  
+![Dashboard 3](https://github.com/Paidigumal-Vivek/Analysis-of-Los-Angeles-Crime-Data/blob/main/Dashboard3.jpeg)  
 
 ## **Contributors**  
 - Praneeth Ravirala  
